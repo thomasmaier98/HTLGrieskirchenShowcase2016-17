@@ -3,3 +3,18 @@
 The projects in this repository are for demonstration purposes only. 
 All copyrights and trademarks belong to their rightful owner.
 If there is any problem with any demo just leave a short message.
+
+
+@students:
+After uploading you project link it in here.
+The standard base path is https://alfreddoppler.github.io/HTLGrieskirchenShowcase2016-17/
+from there add the path to your index.html.
+
+Projects of 2016/17
+===================
+
+
+
+
+
+
