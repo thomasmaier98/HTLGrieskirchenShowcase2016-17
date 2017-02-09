@@ -19,3 +19,6 @@ https://alfreddoppler.github.io/HTLGrieskirchenShowcase2016-17/Projects_WS_2016/
 
 SwimGoldfishSwim from Michael Duschek
 https://alfreddoppler.github.io/HTLGrieskirchenShowcase2016-17/SwimGoldfishSwim/index.html
+
+Snake from Flavius Stoianov
+https://github.com/dailypics/HTLGrieskirchenShowcase2016-17/tree/master/Projects_WS_2016/SnakeGL
