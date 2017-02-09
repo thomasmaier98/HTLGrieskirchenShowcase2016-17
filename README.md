@@ -22,3 +22,23 @@ https://alfreddoppler.github.io/HTLGrieskirchenShowcase2016-17/SwimGoldfishSwim/
 
 WebGL by dberghammer:
 https://alfreddoppler.github.io/HTLGrieskirchenShowcase2016-17/WebGL/index.html
+
+Super Agumon Adventure
+https://alfreddoppler.github.io/HTLGrieskirchenShowcase2016-17/WebGlSuperAgumonAdventure/index.html
+
+MagicalJumpnRun by David Märzendorfer:
+https://alfreddoppler.github.io/HTLGrieskirchenShowcase2016-17/Projects_WS_2016/MagicalJumpnRun/index.html 
+
+Leauge of Legends ... Legends from Martin Reisinger
+https://github.com/AlfredDoppler/HTLGrieskirchenShowcase2016-17/blob/master/LoLLegends/index.html
+
+I Wanna Be The Isaac from Samuel Köpf
+https://alfreddoppler.github.io/HTLGrieskirchenShowcase2016-17/Projects_WS_2016/Isaac_skoepf/index.html^
+
+hotline miami space edition
+https://alfreddoppler.github.io/HTLGrieskirchenShowcase2016-17/Projects_WS_2016/ptutakiewicz/index.html 
+
+Random Fightin Game (Not Functioning Yet .-.):
+https://alfreddoppler.github.io/HTLGrieskirchenShowcase2016-17/Fighter Game Web GL/index.html
+
+
