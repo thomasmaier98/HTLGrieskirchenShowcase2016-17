@@ -46,7 +46,7 @@ https://github.com/AlfredDoppler/HTLGrieskirchenShowcase2016-17/blob/master/LoLL
 
 I Wanna Be The Isaac from Samuel Köpf
 
-https://alfreddoppler.github.io/HTLGrieskirchenShowcase2016-17/Projects_WS_2016/Isaac_skoepf/index.html^
+https://alfreddoppler.github.io/HTLGrieskirchenShowcase2016-17/Projects_WS_2016/Isaac_skoepf/index.html
 
 
 hotline miami space edition
@@ -61,4 +61,39 @@ https://alfreddoppler.github.io/HTLGrieskirchenShowcase2016-17/Fighter Game Web 
 Undead Arcade (c) mkreuzmayr
 
 https://alfreddoppler.github.io/HTLGrieskirchenShowcase2016-17/Projects_WS_2016/WebGL/index.html
+
+
+Horror Game from Ralf Hintersteininger
+
+https://alfreddoppler.github.io/HTLGrieskirchenShowcase2016-17/Projects_WS_2016/rhintersteininger_HorrorGame/index.html
+
+
+Singleplayer monster.io from Manuel Schlagintweit
+
+https://alfreddoppler.github.io/HTLGrieskirchenShowcase2016-17/Projects_WS_2016/singleplayer%20monster.io/index.html
+
+
+Run It Down Mid astuhlerger
+
+https://alfreddoppler.github.io/HTLGrieskirchenShowcase2016-17/Projects_WS_2016/GD1Build%20astuhlberger/index.html
+
+
+Arkanoid Game (c) hakobian
+
+https://alfreddoppler.github.io/HTLGrieskirchenShowcase2016-17/2DGameBuild/index.html
+
+
+I schias auf deppade Kreise (c) Kirchsteiger
+
+https://alfreddoppler.github.io/HTLGrieskirchenShowcase2016-17/Builds/index.html
+
+
+Batte Worms
+
+https://alfreddoppler.github.io/HTLGrieskirchenShowcase2016-17/Projects_WS_2016/Build_lhettmann/index.html
+
+
+Snake from Flavius Stoianov
+
+https://alfreddoppler.github.io/HTLGrieskirchenShowcase2016-17/Projects_WS_2016/SnakeGL
 
