@@ -41,7 +41,7 @@ https://alfreddoppler.github.io/HTLGrieskirchenShowcase2016-17/Projects_WS_2016/
 
 Leauge of Legends ... Legends from Martin Reisinger
 
-https://github.com/AlfredDoppler/HTLGrieskirchenShowcase2016-17/blob/master/LoLLegends/index.html
+https://alfreddoppler.github.io/HTLGrieskirchenShowcase2016-17/LoLLegends/index.html
 
 
 I Wanna Be The Isaac from Samuel Köpf
@@ -96,4 +96,3 @@ https://alfreddoppler.github.io/HTLGrieskirchenShowcase2016-17/Projects_WS_2016/
 Snake from Flavius Stoianov
 
 https://alfreddoppler.github.io/HTLGrieskirchenShowcase2016-17/Projects_WS_2016/SnakeGL
-
