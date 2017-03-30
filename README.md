@@ -14,6 +14,10 @@ from there add the path to your index.html.
 Projects of 2016/17
 ===================
 
+Forklift Simulator 
+
+https://alfreddoppler.github.io/HTLGrieskirchenShowcase2016-17/Projects_WS_2016/Forklift_Simulator/
+
 MasterCart Multiplayer Car Race
 
 https://alfreddoppler.github.io/HTLGrieskirchenShowcase2016-17/Projects_WS_2016/MasterCartMultiplayerWeb/index.html
