@@ -96,3 +96,8 @@ https://alfreddoppler.github.io/HTLGrieskirchenShowcase2016-17/Projects_WS_2016/
 Snake from Flavius Stoianov
 
 https://alfreddoppler.github.io/HTLGrieskirchenShowcase2016-17/Projects_WS_2016/SnakeGL
+
+
+Mad Jacks by Florian Redinger & Florian Peter
+
+https://alfreddoppler.github.io/HTLGrieskirchenShowcase2016-17/Projects_WS_2016/MadJacks/index.html
