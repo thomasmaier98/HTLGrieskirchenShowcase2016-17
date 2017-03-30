@@ -100,4 +100,4 @@ https://alfreddoppler.github.io/HTLGrieskirchenShowcase2016-17/Projects_WS_2016/
 
 Mad Jacks by Florian Redinger & Florian Peter
 
-https://alfreddoppler.github.io/HTLGrieskirchenShowcase2016-17/Projects_WS_2016/MadJacks/index.html
+https://alfreddoppler.github.io/HTLGrieskirchenShowcase2016-17/MadJacks/index.html
