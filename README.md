@@ -11,8 +11,8 @@ After uploading you project create a link in here.
 The standard base path is https://alfreddoppler.github.io/HTLGrieskirchenShowcase2016-17/
 from there add the path to your index.html.
 
-Projects of 2016/17
-===================
+Projects of Winter Semester 2016
+================================
 
 ## Forklift Simulator by Wageneder, Lexl
 
@@ -107,3 +107,9 @@ https://alfreddoppler.github.io/HTLGrieskirchenShowcase2016-17/Projects_WS_2016/
 ## Mad Jacks by Florian Redinger & Florian Peter
 
 https://alfreddoppler.github.io/HTLGrieskirchenShowcase2016-17/Projects_WS_2016/MadJacks/
+
+
+
+Projects of Summer Semester 2017
+===================================
+
