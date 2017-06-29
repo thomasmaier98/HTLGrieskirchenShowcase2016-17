@@ -147,4 +147,11 @@
         "year": "2017_SS",
         "status": 1
     }
+    {
+        "title": "HunterSimulator",
+        "folder": "HunterSimulatorWeb",
+        "author": "Thomas Maier",
+        "year": "2017_SS",
+        "status": 1
+    }
 ]
