@@ -1,7 +1,7 @@
 [![HTL-Grieskirchen](http://www.htl-grieskirchen.net/fileadmin/bilder/logo.png)](http://htl-grieskirchen.net)
 # Showcase 2016-17
 
-### [**List of projects**](https://alfreddoppler.github.io/HTLGrieskirchenShowcase2016-17/)
+### [**List of projects**](https://thomasmaier98.github.io/HTLGrieskirchenShowcase2016-17/)
 
 The projects in this repository are for demonstration purposes only. 
 All copyrights and trademarks belong to their rightful owner.
